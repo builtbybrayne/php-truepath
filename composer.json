@@ -1,6 +1,7 @@
 {
     "name": "perchten/truepath",
     "type": "library",
+    "version" : "1.0.0",
     "description": "Replace PHP's extremely buggy realpath()",
     "keywords": [
         "realpath",
