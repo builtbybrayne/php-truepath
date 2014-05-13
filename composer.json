@@ -1,5 +1,5 @@
 {
-    "name": "Perchten/Truepath",
+    "name": "perchten/truepath",
     "type": "library",
     "description": "Replace PHP's extremely buggy realpath()",
     "keywords": [
