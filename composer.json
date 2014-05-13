@@ -18,8 +18,8 @@
         }
     ],
     "autoload": {
-        "psr-4": {
-            "Perchten\\": "src/"
-        }
+        "files": [
+            "src/truepath.php"
+        ]
     }
 }
